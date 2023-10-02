@@ -4,10 +4,10 @@ from sklearn.metrics.pairwise import cosine_similarity
 
 app = fastapi.FastAPI()
 
-df_items= pd.read_parquet('items.parquet')
-df_reviews = pd.read_parquet('reviews_sa.parquet')
-df_steam_exploded = pd.read_parquet('steam_exploded.parquet')
-df_steam= pd.read_parquet('steam_games.parquet')
+df_items= pd.read_csv('items.csv')
+df_reviews = pd.read_csv('reviews_sa.csv')
+df_steam_exploded = pd.read_csv('steam_exploded.csv')
+df_steam= pd.read_csv('steam_games.csv')
 
 
 
