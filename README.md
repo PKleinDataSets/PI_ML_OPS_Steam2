@@ -155,7 +155,7 @@ y el resto de caracteres. Ejemplo : barbas1, UnilsBestWaifu, Z1_M4N, bobseagull.
 
 + [Video explicativo](https://youtu.be/RUVuZAiKzg0) Un video Youtube explicando algunos conceptos sobre el proyecto, y mostrando el deployment de la API en Render.
 
-:fire: [Gmail](pablodatasets@gmail.com) : Mail de contacto
+:fire: [Gmail](pablodatasets@gmail.com) : pablodatasets@gmail.com Mail de contacto
 
 :fire: [LinkedIn](https://www.linkedin.com/in/pablo-andres-klein-a669551b1/) : Mi perfil de linkedin
 
