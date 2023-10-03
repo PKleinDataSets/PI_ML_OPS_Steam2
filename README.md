@@ -6,7 +6,7 @@
 <img src="Images/img_1.png"  height=300>
 </p>
 
-# **Introducción**
+# **Introducción : Steam Game Recomendation**
 
 En este proyecto, tendremos que realizar una serie de transformaciones para la obtención de información útil y un modelo capaz de recomendar juegos similares a los que le gustaron al usuario. 
 Para esto habrá que realizar todos los procesos necesarios presentes en el ciclo de vida de un dato desde la carga, el tratamiento hasta la selección de los componentes o variables que se utilizaran en nuestro Modelo de Machine Learning para su posterior despliegue y uso.
@@ -15,7 +15,7 @@ Cabe aclarar que el proyecto fue desarrollado en el lapso de una semana y, por t
 
 Adoptaremos el rol de una persona que es contratada como Data Scientist en una start-up que provee servicios de agregación de plataformas streaming. Nuestro objetivo principal será crear un modelo de Machine Learning capaz de proporcionar recomendaciones de juegos a nuestros clientes.
 
-Al llegar nos damos cuenta que la madurez de los datos no es óptima, hay datos sin transformar ,anidados, muchos datos faltantes y no tenemos un proceso automatizado para dar con los mismos por lo que tendremos que realizar una serie de transformaciones para obtener información.
+La madurez de los datos que tenemos no es óptima, hay datos sin transformar ,anidados, muchos datos faltantes y no tenemos un proceso automatizado para dar con los mismos por lo que tendremos que realizar una serie de transformaciones para obtener información.
 
 
 # **Objetivos**
