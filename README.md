@@ -3,7 +3,7 @@
 # <h1 align=center> **Proyecto Individual MLOps** </h1>
 # <h1 align=center>**`Machine Learning Operations (MLOps)`**</h1>
 <p align="center">
-<img src="./_src/images/img_1.png"  height=300>
+<img src="Images/img_1.png"  height=300>
 </p>
 
 # **Introducción**
@@ -21,6 +21,31 @@ Al llegar nos damos cuenta que la madurez de los datos no es óptima, hay datos 
 # **Objetivos**
 
 Nuestros objetivos principales son la generación de una API (Application Programming Interfaces) con una serie de funciones para su uso, el Deployment o despliegue de la misma para su uso y la realización de un modelo de recomendación de películas con Machine Learning.
+
+-------------------------------------------------------------------------------------
+
+**MENÚ:**
+
+:heavy_check_mark: Carpeta ETL_EDA_Feature_Eng:
+    - Archivo ProjectoSteam_ETL.ipynb :
+        En este archivo se realizan la carga de los archivos originales, casi todas las tranformaciones de datos , se exporta una version casi sin tranformaciones nombre_raw
+        de cada archivo para usar en el EDA y se continua con las tranformaciones, luego se los
+        exporta limpios.
+
+    - Archivo EDA.ipynb :
+        En este archivo se realizan la visualizaciones de los 3 archivos y del 4 resultante del Featuring_Engineering.
+
+    - Archivo Featuring_Engineering.ipynb :
+        En este archivo se reemplzan las reseñas por el sentimiento de cada reseña usando Machine Learning(NLP).
+
+    - Sistema_Recomendacion.ipynb :
+        En este archivo se explica el sistema de recomendacion como funciona y se muestra ejemplos de uso.    
+
+
+
+:heavy_check_mark: Archivo 'README.md' - en este readme encontrará especificaciones de todo el proyecto.
+
+-------------------------------------------------------------------------------------
 
 ### Se listaron una serie de tareas para llevar a cabo el proceso de ETL, las describiremos brevemente a continuación:
 
@@ -89,7 +114,7 @@ En este archivo encontrarás la implementación de FastAPI y el desarrollo de la
 :red_circle: Los generos deben estar escritos con la primera letra en mayúscula y el resto
 en minuscula , ejemplo : Action.
 
-:red_circle: el usuario debe ser escrito de forma exacta respetando mayúsculas, minúsculas
+:red_circle: el user_id debe ser escrito de forma exacta respetando mayúsculas, minúsculas
 y el resto de caracteres.
 
 :link: En este [link](https://app1-rizi.onrender.com/docs) podras ingresar y consultar las funciones. Cliqueando en GET de cada función, luego la opción 'Try it out', colocar los el dato correspondiente, y cliquear botón 'Execute'.
