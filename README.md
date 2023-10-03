@@ -40,6 +40,9 @@ Nuestros objetivos principales son la generación de una API (Application Progra
 
     - Sistema_Recomendacion.ipynb :
         En este archivo se explica el sistema de recomendacion como funciona y se muestra ejemplos de uso.    
+        
+    - Funciones_API.ipynb :
+        En contiene las funciones de la API con pruebas de distintos inputs , explicaciones y mas comentarios sobre el codigo     
 
 :heavy_check_mark: Carpeta Datasets: Esta carpeta contiene los datasets necesarios para correr
 la API , que habian sido exportados ya el proceso de ETL 
