@@ -80,7 +80,7 @@ Ejemplo de retorno: [{"Puesto 1" : X}, {"Puesto 2" : Y},{"Puesto 3" : Z}]
 
 En este archivo encontrarás la implementación de FastAPI y el desarrollo de las funciones: [main](https://github.com/PKleinDataSets/PI_ML_OPS_Steam2/blob/main/main.py)
 
-# **Link a la API , ejemplo de uso y instrucciones:**
+# **Link a la API y instrucciones:**
 
 + [Deployment](https://app1-rizi.onrender.com/docs): El proyecto ha sido desplegado en un entorno en línea utilizando **Render**
 
@@ -125,9 +125,9 @@ y el resto de caracteres.
 
 + [Video explicativo]() Un video propio explicando algunos conceptos sobre el proyecto.
 
-:fire: [Gmail](pablodatasets@gmail.com) :Mail de contacto
+:fire: [Gmail](pablodatasets@gmail.com) : Mail de contacto
 
-:fire: [LinkedIn](https://www.linkedin.com/in/giselle-pereira-nu%C3%B1ez-011330168/): Mi perfil de linkedin
+:fire: [LinkedIn](https://www.linkedin.com/in/giselle-pereira-nu%C3%B1ez-011330168/) : Mi perfil de linkedin
 
 Gracias por la visita :smile: :bangbang:
 
