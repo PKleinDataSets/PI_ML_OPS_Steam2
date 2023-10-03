@@ -26,7 +26,7 @@ Nuestros objetivos principales son la generación de una API (Application Progra
 
 **MENÚ:**
 
-:heavy_check_mark: Carpeta ETL_EDA_Feature_Eng:
+:heavy_check_mark: Carpeta ETL_EDA_Feature_Eng: 
     - Archivo ProjectoSteam_ETL.ipynb :
         En este archivo se realizan la carga de los archivos originales, casi todas las tranformaciones de datos , se exporta una version casi sin tranformaciones nombre_raw
         de cada archivo para usar en el EDA y se continua con las tranformaciones, luego se los
@@ -41,7 +41,9 @@ Nuestros objetivos principales son la generación de una API (Application Progra
     - Sistema_Recomendacion.ipynb :
         En este archivo se explica el sistema de recomendacion como funciona y se muestra ejemplos de uso.    
 
-
+:heavy_check_mark: Carpeta Datasets: Esta carpeta contiene los datasets necesarios para correr
+la API , que habian sido exportados ya el proceso de ETL 
+             
 
 :heavy_check_mark: Archivo 'README.md' - en este readme encontrará especificaciones de todo el proyecto.
 
