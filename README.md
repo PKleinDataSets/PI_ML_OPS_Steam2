@@ -157,7 +157,7 @@ y el resto de caracteres. Ejemplo : barbas1, UnilsBestWaifu, Z1_M4N, bobseagull.
 
 :fire: [Gmail](pablodatasets@gmail.com) : Mail de contacto
 
-:fire: [LinkedIn](https://www.linkedin.com/in/giselle-pereira-nu%C3%B1ez-011330168/) : Mi perfil de linkedin
+:fire: [LinkedIn](https://www.linkedin.com/in/pablo-andres-klein-a669551b1/) : Mi perfil de linkedin
 
 Gracias por la visita :smile: :bangbang:
 
