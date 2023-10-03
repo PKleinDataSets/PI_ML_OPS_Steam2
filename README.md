@@ -150,7 +150,7 @@ y el resto de caracteres. Ejemplo : barbas1, Z1_M4N, bobseagull.
 -------------------------------------------------------------------------------------
 
 
-# **Archivos de interés y fuentes:**
+# **Archivos de interés , LINK A VIDEO DE YOUTUBE y fuentes:**
 
 + [Dataset original](https://drive.google.com/drive/folders/1HqBG2-sUkz_R3h1dZU5F2uAzpRn7BSpj): Aquí encontrarás una carpeta con los archivos usados
 
