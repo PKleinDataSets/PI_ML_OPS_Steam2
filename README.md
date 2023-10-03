@@ -123,7 +123,7 @@ en minuscula  y sin comillas , ejemplo : Action, Simulation, Strategy.
     ejemplo : 2013, 2014, 2015 , etc.
 
 :red_circle: el user_id debe ser escrito de forma exacta respetando mayúsculas, minúsculas
-y el resto de caracteres. Ejemplo : barbas1, UnilsBestWaifu, Z1_M4N, bobseagull.
+y el resto de caracteres. Ejemplo : barbas1, Z1_M4N, bobseagull.
 
 :link: En este [link](https://app1-rizi.onrender.com/docs) podras ingresar y consultar las funciones. Cliqueando en GET de cada función, luego la opción 'Try it out', colocar los el dato correspondiente, y cliquear botón 'Execute'.
 
