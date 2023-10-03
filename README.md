@@ -82,17 +82,17 @@ En este archivo encontrarás la implementación de FastAPI y el desarrollo de la
 
 # **Link a la API , ejemplo de uso y instrucciones:**
 
-    + [Deployment](https://app1-rizi.onrender.com/docs): El proyecto ha sido desplegado en un entorno en línea utilizando **Render**
++ [Deployment](https://app1-rizi.onrender.com/docs): El proyecto ha sido desplegado en un entorno en línea utilizando **Render**
 
-    :warning: **Sintaxis a tener en cuenta al escribir una consulta:** :warning:
+:warning: **Sintaxis a tener en cuenta al escribir una consulta:** :warning:
 
-    :red_circle: Los generos deben estar escritos con la primera letra en mayúscula y el resto
-    en minuscula , ejemplo : Action.
+:red_circle: Los generos deben estar escritos con la primera letra en mayúscula y el resto
+en minuscula , ejemplo : Action.
 
-    :red_circle: el usuario debe ser escrito de forma exacta respetando mayúsculas, minúsculas
-    y el resto de caracteres.
+:red_circle: el usuario debe ser escrito de forma exacta respetando mayúsculas, minúsculas
+y el resto de caracteres.
 
-    :link: En este [link](https://app1-rizi.onrender.com/docs) podras ingresar y consultar las funciones. Cliqueando en GET de cada función, luego la opción 'Try it out', colocar los el dato correspondiente, y cliquear botón 'Execute'.
+:link: En este [link](https://app1-rizi.onrender.com/docs) podras ingresar y consultar las funciones. Cliqueando en GET de cada función, luego la opción 'Try it out', colocar los el dato correspondiente, y cliquear botón 'Execute'.
 
 
 -------------------------------------------------------------------------------------
