@@ -114,10 +114,13 @@ En este archivo encontrarás la implementación de FastAPI y el desarrollo de la
 :warning: **Sintaxis a tener en cuenta al escribir una consulta:** :warning:
 
 :red_circle: Los generos deben estar escritos con la primera letra en mayúscula y el resto
-en minuscula , ejemplo : Action.
+en minuscula  y sin comillas , ejemplo : Action, Simulation, Strategy.
+
+:red_circle: Los años deben ser escritos sin comillas:
+    ejemplo : 2013, 2014, 2015 , etc.
 
 :red_circle: el user_id debe ser escrito de forma exacta respetando mayúsculas, minúsculas
-y el resto de caracteres.
+y el resto de caracteres. Ejemplo : barbas1, UnilsBestWaifu, Z1_M4N, bobseagull.
 
 :link: En este [link](https://app1-rizi.onrender.com/docs) podras ingresar y consultar las funciones. Cliqueando en GET de cada función, luego la opción 'Try it out', colocar los el dato correspondiente, y cliquear botón 'Execute'.
 
