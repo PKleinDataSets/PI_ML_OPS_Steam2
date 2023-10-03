@@ -20,7 +20,7 @@ Al llegar nos damos cuenta que la madurez de los datos no es óptima, hay datos 
 
 # **Objetivos**
 
-Nuestros objetivos principales son la generación de una API (Application Programming Interfaces) con una serie de funciones para su uso, el Deployment o despliegue de la misma para su uso y la realización de un modelo de recomendación de películas con Machine Learning.
+Nuestros objetivos principales son la generación de una API (Application Programming Interfaces) con una serie de funciones para su uso, el Deployment o despliegue de la misma para su uso y la realización de un modelo de recomendación de juegos en la plataforma Steam  con Machine Learning.
 
 -------------------------------------------------------------------------------------
 
