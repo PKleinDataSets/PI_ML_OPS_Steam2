@@ -27,21 +27,21 @@ Nuestros objetivos principales son la generación de una API (Application Progra
 **MENÚ:**
 
 :heavy_check_mark: Carpeta ETL_EDA_Feature_Eng: 
-    - Archivo ProjectoSteam_ETL.ipynb :
+1.  Archivo ProjectoSteam_ETL.ipynb :
         En este archivo se realizan la carga de los archivos originales, casi todas las tranformaciones de datos , se exporta una version casi sin tranformaciones nombre_raw
         de cada archivo para usar en el EDA y se continua con las tranformaciones, luego se los
         exporta limpios.
 
-    - Archivo EDA.ipynb :
+2. Archivo EDA.ipynb :
         En este archivo se realizan la visualizaciones de los 3 archivos y del 4 resultante del Featuring_Engineering.
 
-    - Archivo Featuring_Engineering.ipynb :
+3. Archivo Featuring_Engineering.ipynb :
         En este archivo se reemplzan las reseñas por el sentimiento de cada reseña usando Machine Learning(NLP).
 
-    - Sistema_Recomendacion.ipynb :
+4. Sistema_Recomendacion.ipynb :
         En este archivo se explica el sistema de recomendacion como funciona y se muestra ejemplos de uso.    
-        
-    - Funciones_API.ipynb :
+
+5. Funciones_API.ipynb :
         En contiene las funciones de la API con pruebas de distintos inputs , explicaciones y mas comentarios sobre el codigo     
 
 :heavy_check_mark: Carpeta Datasets: Esta carpeta contiene los datasets necesarios para correr
