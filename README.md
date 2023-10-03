@@ -153,7 +153,7 @@ y el resto de caracteres. Ejemplo : barbas1, UnilsBestWaifu, Z1_M4N, bobseagull.
 
 + [Diccionario de datos](https://docs.google.com/spreadsheets/d/1-t9HLzLHIGXvliq56UE_gMaWBVTPfrlTf2D9uAtLGrk/edit?usp=drive_web&ouid=108742311118546721132): Diccionario con algunas descripciones de las columnas disponibles en el dataset.
 
-+ [Video explicativo]() Un video propio explicando algunos conceptos sobre el proyecto.
++ [Video explicativo](https://youtu.be/RUVuZAiKzg0) Un video Youtube explicando algunos conceptos sobre el proyecto, y mostrando el deployment de la API en Render.
 
 :fire: [Gmail](pablodatasets@gmail.com) : Mail de contacto
 
